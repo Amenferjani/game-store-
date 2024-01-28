@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Product from "./Product";
 import ProductH from "./ProductH";
 import { useState } from "react";
-import { Route, Routes } from 'react-router-dom';
+
 
 import ScrollToTopOnMount from "../template/ScrollToTopOnMount";
 const categories = [
